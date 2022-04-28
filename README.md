@@ -9,7 +9,8 @@ Given a video or live feed of a person doing the exercise, count the reps of the
 
 
 
-Uploading show.mp4…
+
+https://user-images.githubusercontent.com/72988991/165825996-81d81b1b-d1e5-465d-b264-4a1c670ceef6.mp4
 
 
 
